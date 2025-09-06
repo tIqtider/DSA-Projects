@@ -1,2 +1,2 @@
 # DSA-Projects
-These were Data Structures and Algorithm projects for school
+These were Data Structures and Algorithm projects I did for school.
