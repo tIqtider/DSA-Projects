@@ -1,0 +1,12 @@
+6
+0/Skyler White,1/Walter White
+0/Skyler White,3/Marie Schrader
+0/Skyler White,4/Hank Schrader
+1/Walter White,2/Jesse Pinkman
+1/Walter White,3/Marie Schrader
+1/Walter White,4/Hank Schrader
+1/Walter White,5/Gustavo Fring
+2/Jesse Pinkman,4/Hank Schrader
+2/Jesse Pinkman,5/Gustavo Fring
+3/Marie Schrader,4/Hank Schrader
+4/Hank Schrader,5/Gustavo Fring
